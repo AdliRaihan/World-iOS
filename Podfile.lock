@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.8.1)
+  - DropDown (2.3.2)
+  - SDWebImage (4.4.5):
+    - SDWebImage/Core (= 4.4.5)
+  - SDWebImage/Core (4.4.5)
+  - SwiftyJSON (4.2.0)
+  - SWRevealViewController (2.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - DropDown (~> 2.3.2)
+  - SDWebImage (~> 4.0)
+  - SwiftyJSON (~> 4.0)
+  - SWRevealViewController (~> 2.3)
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  DropDown: 7f87abecc28f9b4edad810fe1211c5c018c257e5
+  SDWebImage: ecc03494e973b93b80213649d32175f8d2d17d4d
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SWRevealViewController: 6d3fd97f70112fd7cef9de14df4260eacce4c63a
+
+PODFILE CHECKSUM: 670552f217b1b5bb8f5b4d4bbafd7c515b17d853
+
+COCOAPODS: 1.4.0
